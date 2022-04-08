@@ -1,0 +1,22 @@
+{
+    "_redirectEventId": undefined,
+    "apiKey": "AIzaSyBUriKV5lBf6cxXJn6GRTMQEqx0KczWSHU",
+    "appName": "[DEFAULT]",
+    "createdAt": "1646923028248",
+    "displayName": "rakesh",
+    "email": "patienttest11@gmail.com",
+    "emailVerified": false,
+    "isAnonymous": false,
+    "lastLoginAt": "1646923028248",
+    "phoneNumber": undefined,
+    "photoURL": "patient",
+    "providerData": [
+        [Object
+        ]
+    ],
+    "stsTokenManager": {
+        "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjJkYzBlNmRmOTgyN2EwMjA2MWU4MmY0NWI0ODQwMGQwZDViMjgyYzAiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vaGVhbHRoLW1vbml0b3ItZTg0ZDciLCJhdWQiOiJoZWFsdGgtbW9uaXRvci1lODRkNyIsImF1dGhfdGltZSI6MTY0NjkyMzAyOCwidXNlcl9pZCI6Ijc1TFBCM0V5SjBnTkFYNE8wTThTUDdHQjQ5QzIiLCJzdWIiOiZqI-y_8f5KAinFlEryE_DwFGoLAKPeH2fUY-5vZbru2wWGddQshKiQW9DIXLpkmQ"
+    },
+    "tenantId": undefined,
+    "uid": "75LPB3EyJ0gNAX4O0M8SP7GB49C2"
+}
