@@ -24,13 +24,13 @@ import {
 } from 'firebase/auth';
 
 export const firebaseConfig = {
-  apiKey: 'AIzaSyBUriKV5lBf6cxXJn6GRTMQEqx0KczWSHU',
-  authDomain: 'health-monitor-e84d7.firebaseapp.com',
-  databaseURL: 'https://health-monitor-e84d7.firebaseio.com/',
-  projectId: 'health-monitor-e84d7',
-  storageBucket: 'health-monitor-e84d7.appspot.com',
-  messagingSenderId: '872680569824',
-  appId: '1:872680569824:android:de05577d5bc0b56a364985',
+  apiKey: '',
+  authDomain: '',
+  databaseURL: '',
+  projectId: '',
+  storageBucket: '',
+  messagingSenderId: '',
+  appId: '',
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
