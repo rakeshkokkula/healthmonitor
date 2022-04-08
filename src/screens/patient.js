@@ -169,7 +169,7 @@ const Patient = ({navigation}) => {
     );
 
     if (granted === PermissionsAndroid.RESULTS.GRANTED) {
-      SendIntentAndroid.sendPhoneCall('+91 8466000071', true);
+      SendIntentAndroid.sendPhoneCall('+91 xxxxxxxxxx', true);
       console.log('You dialed directly');
     } else {
       console.log('No permission');
